@@ -13,6 +13,7 @@
   <artifactId>reactive-mongo-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>reactive-mongo-demo</name>
+  <packaging>jar</packaging>
   <description>Demo project for Spring Boot Reactive Mongo</description>
 
   <properties>
