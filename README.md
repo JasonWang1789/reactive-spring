@@ -24,4 +24,5 @@ Maven 3.6.1
 1. Check the logs from `server` and `client` cmd/terminals, there should be constant/streaming events from both _producer_ and _consumer_ !!!
 
 
-https://www.youtube.com/watch?v=27Lg96EwPEg&list=PLTyWtrsGknYdP2W8uyfBI_vjTa--BLXP9&index=6
+### Reference
+1. https://www.youtube.com/watch?v=27Lg96EwPEg&list=PLTyWtrsGknYdP2W8uyfBI_vjTa--BLXP9&index=6
